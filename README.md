@@ -1,0 +1,2 @@
+# MD5LengthExtentionAttack
+对MD5进行长度拓展攻击，但是存在一点问题，拼接修改以后Hash值发生了改变
