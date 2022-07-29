@@ -1,4 +1,4 @@
-#import hashpumpy
+import hashpumpy
 from hashlib import md5
 
 
