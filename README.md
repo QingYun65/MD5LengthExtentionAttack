@@ -7,3 +7,6 @@ MD5算法的实现，对MD5进行长度拓展攻击
 工具安装：基于Unutu20.04，python 3，安装Haspumpy库   
 需要先下载hashpumpy-1.2.tar.gz文件（Hashpumpy版本1.2），地址 https://pypi.org/project/hashpumpy/#files ，     
 tar zxvf hashpumpy-1.2.tar.gz解压，cd hashpumpy-1.2/ 进入文件夹，python3 setup.py install --u安装。  
+
+
+运行指导以及代码运行结果截图见WordDocument-OperationalGuidelines-and-ScreenshotsOfResults中创新实践提交文档.docx
